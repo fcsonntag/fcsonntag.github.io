@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -198,7 +198,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Title with <br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">TERMINE</span><br>",
+          "title": "&nbsp;<br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">TERMINE</span><br>",
           "meta": ""
         },
         {
@@ -360,7 +360,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Title with <br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">TABELLE</span><br>",
+          "title": "<br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">TABELLE</span><br>",
           "meta": ""
         },
         {
@@ -514,7 +514,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Title with <br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">GALLERIE</span><br>",
+          "title": "&nbsp;<br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">GALLERIE</span><br>",
           "meta": ""
         },
         {
@@ -1053,7 +1053,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Title with <br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">KONTAKT</span><br>",
+          "title": "&nbsp;<br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">KONTAKT</span><br>",
           "meta": ""
         },
         {

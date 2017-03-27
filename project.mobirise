@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 134,
+    "uniqCompNum": 135,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -2469,7 +2469,7 @@
             "Extension"
           ],
           "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-3p",
+          "_anchor": "facebook-comments-block-3q",
           "_params": {
             "postsNumber": 5,
             "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
@@ -2481,7 +2481,7 @@
             "overlayColor": "#7e9b9f",
             "socialFacebook": false,
             "socialGoogle": false,
-            "shortName": "fc-sonntag-de",
+            "shortName": "fcsonntag",
             "socialDisqus": true
           },
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",

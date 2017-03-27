@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1169,7 +1169,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>KONTAKT</b></span></font><br>fcsonntag@gmx.net",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">Bistumsliga Berlin e.V.</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Deutscher Fussball-Bund e.V.</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">Bistumsliga Berlin e.V.</a></li><li><a class=\"text-white\" href=\"http://www.dfb.de\" target=\"_blank\">Deutscher Fussball-Bund e.V.</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "fcsonntag@gmx.net",

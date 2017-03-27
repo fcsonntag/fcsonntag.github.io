@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 134,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -293,7 +293,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -455,7 +455,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -609,7 +609,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1148,7 +1148,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1185,7 +1185,7 @@
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Deine Email*"
               },
               "phone": {
                 "title": "Phone",
@@ -1529,7 +1529,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2335,6 +2335,158 @@
             "bgColor": "#fff"
           },
           "text": "<p>Am letzten Spieltag dieser Saison ging es für den FCS um alles. Widrigste Umstände sorgten dafür, dass wir uns die letzten drei Wochen über darum kümmern mussten, wenigstens sieben Spieler für den Abschiedskick (von der Saison, von mir, von Flatow) zu organisieren, um nicht die dritte, dann tödliche Wertung zu kassieren. Das hätte uns eine eigentlich erfreuliche Saison auf einen Schlag zunichte gemacht. Zum Glück hat Spielervermittler Sven ein dickes schwarzes Notizbuch, aus dem er uns die nötige Verstärkung zaubern konnte. Max und David sind ab heute Ehrenmitglieder des FCS und vielleicht kommen sie ja in der neuen Saison noch einmal dazu.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Die beiden waren eine riesen Bereicherung und haben uns besonders eine felsenfeste Abwehr gezimmert. Mit Stephan „Die Katze“ Flatow zwischen den Pfosten und mir auf der rechten Seite war die Defensive komplett. Vorne sorgten Sven und Ulf und ab Mitte der zweiten Häfte auch John für kreative Unruhe. Der aufmerksame Leser merkt: wir waren im ersten Spiel lange Zeit in Unterzahl und das ist eine Erfahrung, die ich bei gefühlt 40 Grad, direkter Sonne und tropischer Schwüle gerne nicht gemacht hätte. Buch, unser erster Gegner, dagegen kam mit zwei kompletten Anzügen, die sie munter austauschten.</span><br></p><p><br></p><p>Hatte was von Hase und Igel. Wir nahmen die Vorlage an und igelten uns hinten ein. Vorne sollten der liebe Gott (Sven) helfen. Um es kurz zu  machen. Wir haben uns tapfer geschlagen, sind dem Kreislaufkollaps durch Glück entkommen und waren mit dem Ergebnis zufrieden.</p><p><br></p><p><b>FC Sonntag vs. Buch 2:5 (1:3)</b></p><p><br></p><p>Das zweite Spiel hätte ich am liebsten abgesagt. Mir ging es elend und Sven schleppte den Kadaver über den Platz. Bei diesen äußeren Bedingungen war es grenzwertig, den Spieltag stattfinden zu lassen, aber was soll’s. Unsere Gegner vom FK Union, die nach einer Niederlage gegen Köpenick mit dem Rücken zu Wand standen, hatten aber überhaupt kein Interesse an einer inoffiziellen Lösung und so mussten wir ran. Und das machten wir dann. Nach fünf Minuten stand es 2:0 (Sven und John) und wir hatten das Heft in der Hand. FK verstand es nicht, aus dem Vorteil der vorhandenen Wechselspieler Kapital zu schlagen und wir spielten phasenweise recht ordentlich. Vor allem David und Max müssen hier hervorgehoben werden, die uns gut vorangetrieben haben und hinten für viel Stabilität sorgten. Sven ging Ende der ersten Hälfte bis Mitte der zweiten ins Tor und machte das super. Vom Rest des Spiels weiß ich nicht mehr viel. Zur Pause haben wir noch auf 3:1 erhöht (David) und nach dem Seitenwechsel gelang es Union nicht, die wenigen Chancen, die sie sich erspielten, auch wirklich zu nutzen. Mit einem Wechsler hätten wir genug Kraft dafür gehabt, den Sieg deutlicher zu machen. Am Ende konnten wir den Dreier nach allen Regeln der Kunst über die Zeit schaukeln und uns zu Aki ins Ziel schleppen. Wow! Was für ein Spieltag.</p><p><br></p><p><b>FC Sonntag vs. FK Union 3:2 (3:1)</b></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ich freue mich tierisch, dass ich mich mit einem Sieg vom FC Sonntag verabschieden konnte – auch wenn ich nicht sooo viel dazu beitragen konnte. Es war eine tolle Zeit mit Euch und es war mir immer eine Freude, mit Euch zu spielen, auf dem Platz rumzuschreien, die einfachen Dinger zu versemmeln und Euch alle vor dem Spiel „noch einmal zusammen“ zu rufen. Von den Nachbesprechungen im Bölsche und in Köpenick ganz zu schweigen.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p>Euer Tilman</p>"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "TERMINE",
+        "meta_descr": "TERMINE\u001b",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "&nbsp;<br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">GÄSTEBUCH</span><br>",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3l",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-3p",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "fcsonntag",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     }

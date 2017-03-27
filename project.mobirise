@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1386,7 +1386,7 @@
       "settings": {
         "title": "TERMINE",
         "meta_descr": "TERMINE\u001b",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -1431,7 +1431,7 @@
             "showMeta": true
           },
           "title": "6. Spieltag 25.03.2017",
-          "meta": "von René - 27.März 2017"
+          "meta": "von René - 27. März 2017"
         },
         {
           "_tags": [
@@ -1566,7 +1566,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "\b2. Spieltag 25.02.2017",
+          "title": "2. Spieltag 25.02.2017",
           "meta": "von René - 27. März 2017"
         },
         {
@@ -2522,7 +2522,7 @@
       "settings": {
         "title": "TERMINE",
         "meta_descr": "TERMINE\u001b",
-        "order": 3
+        "order": 7
       },
       "components": [
         {

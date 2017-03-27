@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 105,
+    "uniqCompNum": 107,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1154,35 +1154,51 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "32px",
-              "color": "#ffffff"
+          "_name": "contacts4",
+          "_anchor": "contacts4-2x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>KONTAKT</b></span></font><br>fcsonntag@gmx.net",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">Bistumsliga Berlin e.V.</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Deutscher Fussball-Bund e.V.</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "fcsonntag@gmx.net",
+            "alerts": {
+              "success": "Danke für Deine Nachricht"
             },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "32px",
-              "text-align": "center",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "B": {
-              "text-align": "center",
-              "color": "#ffffff"
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Nachricht"
+              }
             }
           },
-          "_anchor": "content7-19",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#28324e"
-          },
-          "text1": "<p><br></p><p><br></p><p><br></p>",
-          "text2": "<p><br></p><p><br></p><p><b>fcsonntag@gmx.net</b></p><p><br></p><p><br></p>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">kontaktiert uns</a>"
         }
       ]
     },
@@ -1890,7 +1906,7 @@
             "showMeta": true
           },
           "title": "6. Spieltag 15.03.2014",
-          "meta": "von Tilman 16. März 2014"
+          "meta": "von Tilman - 16. März 2014"
         },
         {
           "_tags": [

@@ -822,6 +822,30 @@ h6,
 #header3-1h SPAN {
   font-family: 'Open Sans', sans-serif;
 }
+#header3-3h .mbr-section-title,
+#header3-3h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3f .mbr-section-title,
+#header3-3f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3d .mbr-section-title,
+#header3-3d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3b .mbr-section-title,
+#header3-3b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3a .mbr-section-title,
+#header3-3a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-37 .mbr-section-title,
+#header3-37 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-1i .hide-buttons .nav-btn {
   display: none !important;
 }

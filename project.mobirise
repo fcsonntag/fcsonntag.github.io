@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page5.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 107,
+    "uniqCompNum": 127,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">BISTUMSLIGA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -293,7 +293,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">BISTUMSLIGA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -455,7 +455,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">BISTUMSLIGA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -609,7 +609,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">BISTUMSLIGA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1148,7 +1148,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">BISTUMSLIGA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1232,6 +1232,210 @@
           },
           "title": "&nbsp;<br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><br>SPIELBERICHTE",
           "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "6. Spieltag 25.03.2017",
+          "meta": "von René - 27.März 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-3i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>FC Urban Weißensee - FC Sonntag 1:5</b></p>",
+          "text2": "<b>FC Sonntag - WSG Aufbau 07 2:1</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "5. Spieltag 11.03.2017",
+          "meta": "von René - 27. März 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-3g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>FC Sonntag - Buch 1 1:5</b></p>",
+          "text2": "<b>Heilige Familie 1- FC Sonntag 1:5</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "4. Spieltag 26.11.2016",
+          "meta": "von René - 27. März 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-3e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>FC Sonntag - BeerKicker 55 4:3</b></p>",
+          "text2": "<b>Mauritius Streiter- FC Sonntag 4:3</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "3. Spieltag 12.11.2016",
+          "meta": "von René - 27. März 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-3c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Zenit Grünau - FC Sonntag 4:1</b></p>",
+          "text2": "<b>Schiedsrichter</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "\b2. Spieltag 25.02.2017",
+          "meta": "von René - 27. März 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-39",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>WSG Aufbau 07 - FC Sonntag 1:2</b></p>",
+          "text2": "<b>FC Sonntag - Köpenick III/Peneder 6:0</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-37",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "1. Spieltag 22.10.2016",
+          "meta": "von René - 27. März 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-38",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>FC Sonntag - Heilige Familie 1 0:6</b></p>",
+          "text2": "<b>FC Sonntag - FC Urban Weißensee 0:6</b>"
         },
         {
           "_styles": {
@@ -1325,7 +1529,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">BISTUMSLIGA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2118,6 +2322,19 @@
             "bgColor": "#fff"
           },
           "text": "<p>Die wichtigste Nachricht zuerst:</p><p><br></p><p>Auch nach dem zweiten Spieltag und vier Spielen – einschließlich Wertungsspiel gegen Nordberlin – bleibt der FC Sonntag ungeschlagen!</p><p><br></p><p>Gegen Buch konnten wir die Halbzeitführung unseres Gegners in der zweiten Spielhälfte durch Matze egalisieren und hätten auch einen Sieg verdient. Leider blieben wir zu harmlos in unseren Angriffsbemühungen und Buch verstand es, sicher hinten zu stehen.</p><p><br></p><p><b>FC Sonntag – Buch 1:1 (0:1)</b></p><p><br></p><p>Im zweiten Match ging es gegen KTS, die mit zwei Siegen und 5:1 Toren gut in die Saison gestartet sind. Auf dem Platz zeigte sich schnell, dass sie uns zwar spielerisch leicht überlegen waren, aber auch, dass wir es besser verstanden, den Fight anzunehmen. Es entwickelte sich ein flottes Spielchen, in dem wir zur Pause nach Toren von Willi (Kopfball nach Traumflanke von Haufi von links) und Haufi (schöner Konter, Vorlage Wili) mit 2:0 führten. Nach dem Seitenwechsel gelang KTS schnell der Anschlusstreffer, den auch Ersatztorhüter Lukas – Fuchs musste nach dem ersten Match gehen – nicht  verhindern konnte. Natürlich machte sich in den Köpfen die Sorge breit, wir könnten in bester Sonntag-Manier mal wieder eine gute Hlabzeitführung aus der Hand geben. Aber damit lagen die Köpfe falsch! Nach einem flinken Konter schloss Will (Vorlage Tilman) etwas glücklich ab und kurz darauf packte Martin seine rechte Klebe aus und erhöhte per TRAUMTOR (Direktabnahme aus der Luft in den linken Winkel) zum 4:1 (Vorlage KTS). Mit einem weiteren Konter konnte dann Matze nach Willi-Vorlage alles klar machen und somit fiel auch der zweite Gegentreffer, der aus einem etwas verunglückten Klärungsversuch resultierte, nicht mehr ins Gewicht.</p><p><br></p><p><b>KTS – FC Sonntag 2:5 (0:2)</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Am letzten Spieltag dieser Saison ging es für den FCS um alles. Widrigste Umstände sorgten dafür, dass wir uns die letzten drei Wochen über darum kümmern mussten, wenigstens sieben Spieler für den Abschiedskick (von der Saison, von mir, von Flatow) zu organisieren, um nicht die dritte, dann tödliche Wertung zu kassieren. Das hätte uns eine eigentlich erfreuliche Saison auf einen Schlag zunichte gemacht. Zum Glück hat Spielervermittler Sven ein dickes schwarzes Notizbuch, aus dem er uns die nötige Verstärkung zaubern konnte. Max und David sind ab heute Ehrenmitglieder des FCS und vielleicht kommen sie ja in der neuen Saison noch einmal dazu.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Die beiden waren eine riesen Bereicherung und haben uns besonders eine felsenfeste Abwehr gezimmert. Mit Stephan „Die Katze“ Flatow zwischen den Pfosten und mir auf der rechten Seite war die Defensive komplett. Vorne sorgten Sven und Ulf und ab Mitte der zweiten Häfte auch John für kreative Unruhe. Der aufmerksame Leser merkt: wir waren im ersten Spiel lange Zeit in Unterzahl und das ist eine Erfahrung, die ich bei gefühlt 40 Grad, direkter Sonne und tropischer Schwüle gerne nicht gemacht hätte. Buch, unser erster Gegner, dagegen kam mit zwei kompletten Anzügen, die sie munter austauschten.</span><br></p><p><br></p><p>Hatte was von Hase und Igel. Wir nahmen die Vorlage an und igelten uns hinten ein. Vorne sollten der liebe Gott (Sven) helfen. Um es kurz zu  machen. Wir haben uns tapfer geschlagen, sind dem Kreislaufkollaps durch Glück entkommen und waren mit dem Ergebnis zufrieden.</p><p><br></p><p><b>FC Sonntag vs. Buch 2:5 (1:3)</b></p><p><br></p><p>Das zweite Spiel hätte ich am liebsten abgesagt. Mir ging es elend und Sven schleppte den Kadaver über den Platz. Bei diesen äußeren Bedingungen war es grenzwertig, den Spieltag stattfinden zu lassen, aber was soll’s. Unsere Gegner vom FK Union, die nach einer Niederlage gegen Köpenick mit dem Rücken zu Wand standen, hatten aber überhaupt kein Interesse an einer inoffiziellen Lösung und so mussten wir ran. Und das machten wir dann. Nach fünf Minuten stand es 2:0 (Sven und John) und wir hatten das Heft in der Hand. FK verstand es nicht, aus dem Vorteil der vorhandenen Wechselspieler Kapital zu schlagen und wir spielten phasenweise recht ordentlich. Vor allem David und Max müssen hier hervorgehoben werden, die uns gut vorangetrieben haben und hinten für viel Stabilität sorgten. Sven ging Ende der ersten Hälfte bis Mitte der zweiten ins Tor und machte das super. Vom Rest des Spiels weiß ich nicht mehr viel. Zur Pause haben wir noch auf 3:1 erhöht (David) und nach dem Seitenwechsel gelang es Union nicht, die wenigen Chancen, die sie sich erspielten, auch wirklich zu nutzen. Mit einem Wechsler hätten wir genug Kraft dafür gehabt, den Sieg deutlicher zu machen. Am Ende konnten wir den Dreier nach allen Regeln der Kunst über die Zeit schaukeln und uns zu Aki ins Ziel schleppen. Wow! Was für ein Spieltag.</p><p><br></p><p><b>FC Sonntag vs. FK Union 3:2 (3:1)</b></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ich freue mich tierisch, dass ich mich mit einem Sieg vom FC Sonntag verabschieden konnte – auch wenn ich nicht sooo viel dazu beitragen konnte. Es war eine tolle Zeit mit Euch und es war mir immer eine Freude, mit Euch zu spielen, auf dem Platz rumzuschreien, die einfachen Dinger zu versemmeln und Euch alle vor dem Spiel „noch einmal zusammen“ zu rufen. Von den Nachbesprechungen im Bölsche und in Köpenick ganz zu schweigen.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p>Euer Tilman</p>"
         }
       ]
     }

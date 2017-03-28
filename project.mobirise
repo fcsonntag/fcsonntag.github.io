@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 139,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -334,8 +334,8 @@
     },
     "page3.html": {
       "settings": {
-        "title": "TERMINE",
-        "meta_descr": "TERMINE\u001b",
+        "title": "TABELLE",
+        "meta_descr": "TABELLE",
         "order": 4
       },
       "components": [
@@ -385,6 +385,53 @@
           },
           "title": "Bistumsliga Berlin - 2. Liga<br>Saison 2016/2017 <br>",
           "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "6. Spieltag",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content7-3t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "text1": "<p><b style=\"line-height: 1.5;\">Mannschaft</b><br></p><p><br></p><p><b>1. Heilige Familie</b></p><p><b>2. Buch 1</b></p><p><span style=\"font-size: 20px; font-family: Raleway, sans-serif; line-height: 1.5;\">3. Zenit Grünau</span></p><p>4. FC Sonntag</p><p>5. Köpenick \bIII/Peneder</p><p>6. Mauritius Streiter</p><p>7. WSG Aufbau 07</p><p><b>8. Beer Kicker 55</b></p><p><b>9. FC Urban Weißensee</b></p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p><b>Punkte</b></p><p><br></p><p><b>27</b></p><p><b>25</b></p><p>21</p><p>16</p><p>15</p><p>13</p><p>7</p><p><b>3</b></p><p><b>2</b></p>",
+          "text3": "<p><b style=\"line-height: 1.5;\">Tordifferenz</b><br></p><p><br></p><p><b>44</b></p><p><b>22</b></p><p>23</p><p>-7</p><p>3</p><p>7</p><p>-16</p><p><b>-41</b></p><p><b>-35</b></p>"
         },
         {
           "_styles": {
@@ -534,8 +581,8 @@
     },
     "page4.html": {
       "settings": {
-        "title": "TERMINE",
-        "meta_descr": "KONTAKT\n",
+        "title": "GALLERIE",
+        "meta_descr": "GALLERIE",
         "order": 5
       },
       "components": [
@@ -1430,8 +1477,8 @@
     },
     "page5.html": {
       "settings": {
-        "title": "TERMINE",
-        "meta_descr": "TERMINE\u001b",
+        "title": "SPIELBERICHTE",
+        "meta_descr": "SPIELBERICHTE",
         "order": 6
       },
       "components": [
@@ -2566,8 +2613,8 @@
     },
     "page6.html": {
       "settings": {
-        "title": "TERMINE",
-        "meta_descr": "TERMINE\u001b",
+        "title": "GUESTBOOK",
+        "meta_descr": "GUESTBOOK",
         "order": 7
       },
       "components": [

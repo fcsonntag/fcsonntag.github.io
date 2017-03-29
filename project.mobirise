@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -235,7 +235,7 @@
           },
           "title1": "<p>Fairness</p>",
           "subtitle1": "Fair-Play-Gedanke",
-          "caption1": "Wir bemühen uns im Spiel die Regeln konsequent und bewusst einzuhalten, sowie den Gegner als Mensch und Mitbewerber zu achten .",
+          "caption1": "Wir bemühen uns im Spiel die Regeln konsequent und bewusst einzuhalten, sowie den Gegner als Mensch und Mitbewerber zu achten.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {

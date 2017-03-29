@@ -592,8 +592,6 @@ h6,
 }
 
 
-
-
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
   text-align: center;
@@ -608,25 +606,33 @@ h6,
 #header3-3r H3 {
   text-align: right;
 }
-#header3-3u .mbr-section-title,
-#header3-3u .mbr-section-subtitle {
-  text-align: center;
+#features7-4d .card-subtitle {
+  color: #bcbcbc;
 }
-#content7-3t SPAN {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 32px;
+#features7-4d .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features7-4d H4 {
   color: #ffffff;
 }
-#content7-3t P {
+#features7-4d P {
   color: #ffffff;
-  font-size: 20px;
-}
-#header3-3s .mbr-section-title,
-#header3-3s .mbr-section-subtitle {
   text-align: center;
 }
-#header3-3s H3 {
-  text-align: right;
+#features7-4b .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-4b .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features7-4b H4 {
+  color: #ffffff;
+}
+#features7-4b P {
+  color: #ffffff;
+  text-align: center;
 }
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
@@ -695,15 +701,6 @@ h6,
 #menu-g .close-icon::before,
 #menu-g .close-icon::after {
   background-color: #000000;
-}
-#content7-i SPAN {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 32px;
-  color: #ffffff;
-}
-#content7-i P {
-  color: #ffffff;
-  font-size: 20px;
 }
 
 

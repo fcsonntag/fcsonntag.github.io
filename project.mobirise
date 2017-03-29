@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 146,
+    "uniqCompNum": 158,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -521,78 +521,282 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Bistumsliga Berlin - 2. Liga<br>Saison 2016/2017 <br>",
+          "title": "Bistumsliga Berlin - 2. Liga<br>",
           "meta": ""
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
+          "_inherit": "features4",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3u",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "6. Spieltag",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
           "_styles": {
-            "SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "32px",
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
               "color": "#ffffff"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "text-align": "center"
             }
           },
-          "_anchor": "content7-3t",
+          "_name": "features7",
+          "_anchor": "features7-4d",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#28324e"
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
           },
-          "text1": "<p><b style=\"line-height: 1.5;\">Mannschaft</b><br></p><p><br></p><p><b>1. Heilige Familie</b></p><p><b>2. Buch 1</b></p><p><span style=\"font-size: 20px; font-family: Raleway, sans-serif; line-height: 1.5;\">3. Zenit Grünau</span></p><p>4. FC Sonntag</p><p>5. Köpenick \bIII/Peneder</p><p>6. Mauritius Streiter</p><p>7. WSG Aufbau 07</p><p><b>8. Beer Kicker 55</b></p><p><b>9. FC Urban Weißensee</b></p><p><br></p><p><br></p><p><br></p>",
-          "text2": "<p><b>Punkte</b></p><p><br></p><p><b>27</b></p><p><b>25</b></p><p>21</p><p>16</p><p>15</p><p>13</p><p>7</p><p><b>3</b></p><p><b>2</b></p>",
-          "text3": "<p><b style=\"line-height: 1.5;\">Tordifferenz</b><br></p><p><br></p><p><b>44</b></p><p><b>22</b></p><p>23</p><p>-7</p><p>3</p><p>7</p><p>-16</p><p><b>-41</b></p><p><b>-35</b></p>"
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title1": "6. Spieltag",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title2": "Mannschaft",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>1. Heilige Familie<br>2. Buch 1</b><br>3. Zenit Grünau<br>4. FC Sonntag<br>5. Köpenick \bIII/Peneder<br>6. Mauritius Streiter<br>7. WSG Aufbau 07<br><b>8. Beer Kicker 55<br>9. FC Urban Weißensee</b><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title3": "Punkte",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>27<br>25</b><br>21<br>16<br>15<br>13<br>7<br><b>3<br>2</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Tordifferenz",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<b>44<br>22</b><br>23<br>-7<br>3<br>7<br>-16<br><b>-41<br>-35</b><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "2016/2017",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right"
-            }
-          },
+          "_inherit": "features4",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3s",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
           },
-          "title": "5. Spieltag",
-          "meta": ""
+          "_name": "features7",
+          "_anchor": "features7-4b",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title1": "5. Spieltag",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title2": "Mannschaft",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>1. Heilige Familie<br>2. Buch 1</b><br>3. Zenit Grünau<br>4. Mauritius Streiter<br>5. Köpenick \bIII/Peneder<br>6. FC Sonntag<br>7. WSG Aufbau 07<br><b>8. FC Urban Weißensee<br>9. Beer Kicker 55</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title3": "Punkte",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>23<br>22</b><br>18<br>12<br>12<br>10<br>7<br><b>2<br>0</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Tordifferenz",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<b>33<br>21</b><br>24<br>8<br>0<br>-12<br>-13<br><b>-26<br>-35</b><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "2016/2017",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -687,33 +891,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "32px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "content7-i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#28324e"
-          },
-          "text1": "<p><b style=\"line-height: 1.5;\">Mannschaft</b><br></p><p><br></p><p><b>1. Heilige Familie</b></p><p><b>2. Buch 1</b></p><p><span style=\"font-size: 20px; font-family: Raleway, sans-serif; line-height: 1.5;\">3. Zenit Grünau</span></p><p>4. Mauritius Streiter</p><p>5. Köpenick \bIII/Peneder</p><p>6. FC Sonntag</p><p>7. WSG Aufbau 07</p><p><b>8. FC Urban Weißensee</b></p><p><b>9. Beer Kicker 55</b></p><p><br></p><p><br></p><p><br></p>",
-          "text2": "<p><b>Punkte</b></p><p><br></p><p><b>23</b></p><p><b>22</b></p><p>18</p><p>12</p><p>12</p><p>10</p><p>7</p><p><b>2</b></p><p><b>0</b></p>",
-          "text3": "<p><b style=\"line-height: 1.5;\">Tordifferenz</b><br></p><p><br></p><p><b>33</b></p><p><b>21</b></p><p>24</p><p>8</p><p>0</p><p>-12</p><p>-13</p><p><b>-26</b></p><p><b>-35</b></p>"
         }
       ]
     },

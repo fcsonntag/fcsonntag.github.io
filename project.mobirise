@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -1839,6 +1839,12 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts4-2x",
           "_params": {
             "paddingTop": 3,
@@ -1853,7 +1859,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>KONTAKT</b></span></font><br>fcsonntag@gmx.net",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">Bistumsliga Berlin e.V.</a></li><li><a class=\"text-white\" href=\"http://www.dfb.de\" target=\"_blank\">Deutscher Fussball-Bund e.V</a>.</li><li><a href=\"http://www.lsb-berlin.net\" target=\"_blank\">Landessportbund Berlin</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.bistumsliga.de/\" target=\"_blank\">Bistumsliga Berlin e.V.</a></li><li><a class=\"text-white\" href=\"http://www.dfb.de\" target=\"_blank\">Deutscher Fussball-Bund e.V</a>.</li><li><a href=\"http://www.lsb-berlin.net\" target=\"_blank\">Landessportbund Berlin</a></li><li><a href=\"http://www.gummibierchen.de/\">Gummibierchen - Der Schluck zum Naschen</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "fcsonntag@gmx.net",
@@ -1882,13 +1888,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">kontaktiert uns</a>",
-          "_styles": {
-            "UL": {
-              "color": "#000000",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">kontaktiert uns</a>"
         },
         {
           "_tags": [

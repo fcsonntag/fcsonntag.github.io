@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -506,7 +506,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">TAB\u001bELLE</span><br>",
+          "title": "<br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">TABELLE</span><br>",
           "meta": ""
         },
         {

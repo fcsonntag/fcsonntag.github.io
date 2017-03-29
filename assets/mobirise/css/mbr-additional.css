@@ -872,6 +872,10 @@ h6,
 #menu-18 .close-icon::after {
   background-color: #000000;
 }
+#contacts4-2x UL {
+  color: #000000;
+  text-align: left;
+}
 
 
 #header3-1h .mbr-section-title,

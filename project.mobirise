@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -646,7 +646,7 @@
           },
           "title2": "Mannschaft",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>1. Heilige Familie<br>2. Buch 1</b><br>3. Zenit Grünau<br>4. Mauritius Streiter<br>5. FC Sonntag<br>6.&nbsp;Köpenick \bIII/Peneder<br>7. WSG Aufbau 07<br><b>8.&nbsp;Beer Kicker 55&nbsp;</b><br><b>9.&nbsp;FC Urban Weißensee</b>",
+          "caption2": "<b>1. Heilige Familie<br>2. Buch 1</b><br>3. Zenit Grünau<br>4. Mauritius Streiter<br>5. FC Sonntag<br>6.&nbsp;Köpenick III/Peneder<br>7. WSG Aufbau 07<br><b>8.&nbsp;Beer Kicker 55&nbsp;</b><br><b>9.&nbsp;FC Urban Weißensee</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {

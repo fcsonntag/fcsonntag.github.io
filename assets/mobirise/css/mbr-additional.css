@@ -614,6 +614,20 @@ h6,
 #header3-3r H3 {
   text-align: right;
 }
+#features7-4l .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-4l .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features7-4l H4 {
+  color: #ffffff;
+}
+#features7-4l P {
+  color: #ffffff;
+  text-align: center;
+}
 #features7-4d .card-subtitle {
   color: #bcbcbc;
 }
@@ -884,6 +898,10 @@ h6,
 }
 #header3-1h SPAN {
   font-family: 'Open Sans', sans-serif;
+}
+#header3-4j .mbr-section-title,
+#header3-4j .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-3h .mbr-section-title,
 #header3-3h .mbr-section-subtitle {

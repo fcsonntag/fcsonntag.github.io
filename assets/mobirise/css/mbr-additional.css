@@ -628,34 +628,6 @@ h6,
   color: #ffffff;
   text-align: center;
 }
-#features7-4d .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-4d .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-#features7-4d H4 {
-  color: #ffffff;
-}
-#features7-4d P {
-  color: #ffffff;
-  text-align: center;
-}
-#features7-4b .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-4b .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-#features7-4b H4 {
-  color: #ffffff;
-}
-#features7-4b P {
-  color: #ffffff;
-  text-align: center;
-}
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -898,6 +870,14 @@ h6,
 }
 #header3-1h SPAN {
   font-family: 'Open Sans', sans-serif;
+}
+#header3-4o .mbr-section-title,
+#header3-4o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4m .mbr-section-title,
+#header3-4m .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-4j .mbr-section-title,
 #header3-4j .mbr-section-subtitle {

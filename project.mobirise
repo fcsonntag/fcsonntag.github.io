@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 170,
+    "uniqCompNum": 172,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -594,7 +594,7 @@
             }
           },
           "_name": "features7",
-          "_anchor": "features7-4l",
+          "_anchor": "features7-4r",
           "_params": {
             "iconsBgColor": "@primaryColor",
             "paddingTop": 2,
@@ -629,7 +629,7 @@
               "family": "et-line"
             }
           },
-          "title1": "Endstand Saison 2016/2017<br><br>2. Liga<br><br>",
+          "title1": "Endstand Saison 2016/2017<br><br>2. Liga",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -646,7 +646,7 @@
           },
           "title2": "Mannschaft",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>1. Heilige Familie<br>2. Buch 1</b><br>3. FC Sonntag<br>4. Mauritius Streiter<br>5. Köpenick III/Peneder<br>6. Zenit Grünau<br>7. WSG Aufbau 07<br><b>8.&nbsp;Beer Kicker 55&nbsp;</b><br><b>9.&nbsp;FC Urban Weißensee</b>",
+          "caption2": "<b>1. Heilige Familie<br>2. Buch 1</b><br>3. FC Sonntag<br>4. Mauritius Streiter<br>5. Köpenick III/Peneder<br>6. Zenit Grünau<br>7. WSG Aufbau 07<br><b>8. Beer Kicker 55 <br>9. FC Urban Weißensee</b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -661,7 +661,7 @@
           },
           "title3": "Punkte",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>42</b><br><b>34<br></b>26<br>26<br>24<br>21<br>10<br><b>9<br>1</b>",
+          "caption3": "<b>42<br>34</b><br>26<br>26<br>24<br>21<br>10<br><b>9<br>1</b><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -676,7 +676,7 @@
           },
           "title4": "Tordifferenz",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<b>76</b><br><b>29<br></b>-3<br>30<br>-4<br>13<br>-28<br><b>-44<br>-69</b><br>",
+          "caption4": "<b>76<br>29</b><br>-3<br>30<br>-4<br>13<br>-28<br><b>-44<br>-69</b><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -689,7 +689,7 @@
               "family": "et-line"
             }
           },
-          "title5": "2016/2017",
+          "title5": "-",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",

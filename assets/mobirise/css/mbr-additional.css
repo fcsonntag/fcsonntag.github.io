@@ -615,6 +615,20 @@ h6,
 #header3-3r H3 {
   text-align: right;
 }
+#features7-4u .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-4u .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features7-4u H4 {
+  color: #ffffff;
+}
+#features7-4u P {
+  color: #ffffff;
+  text-align: center;
+}
 #features7-4r .card-subtitle {
   color: #bcbcbc;
 }

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 175,
+    "uniqCompNum": 182,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -455,7 +455,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -468,7 +468,7 @@
               "font-size": "14px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#28324e"
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts2-d",
@@ -490,7 +490,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p></p><p><br><b>5. Spieltag - 01.12.2018</b></p><p>18:00 Uhr FC Urban Köpenick - FCS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>19:00 Uhr FCS - Loosers United</p><br><p><br></p>",
+          "text1": "<p></p><p><br><b>4. Spieltag - 14.12.2019</b></p><p>18:00 Uhr FCS - Möwe Kicker<span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p>19:00 Uhr SV Grottenkick - FCS</p><br><p><br></p>",
           "text2": "<p><br></p><p><br></p>"
         },
         {
@@ -939,7 +939,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1090,7 +1090,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1853,7 +1853,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2362,7 +2362,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3314,7 +3314,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "facebook-comments",
@@ -3360,6 +3360,195 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) FC Sonntag"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "DATENSCHUTZHINWEISE",
+        "meta_descr": "DATENSCHUTZHINWEISE",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "&nbsp;<br><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">DATENSCHUTZHINWEISE</span><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><br>",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-4y",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MENÜ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">TERMINE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">TABELLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">SPIELBERICHTE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERIE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">GÄSTEBUCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KONTAKT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">DATENSCHUTZHINWEISE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shop.spreadshirt.de/fcsonntag\" aria-expanded=\"false\" target=\"_blank\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTSEITE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-50",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) FC Sonntag"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead DIV": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-51",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "",
+          "text": "<b>Datenschutzerklärung</b><div><br></div><div>Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</div><div><br></div><div>René Fleischer</div><div><br></div><div>Ihre Betroffenenrechte</div><div>Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:</div><div><br></div><div>Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),</div><div>Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),</div><div>Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),</div><div>Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO),</div><div>Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO) und</div><div>Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).</div><div>Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.</div><div><br></div><div>Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z. B. an die zuständige Aufsichtsbehörde des Bundeslands Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.</div><div><br></div><div>Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.</div><div><br></div><div>Kommentarfunktion</div><div>Art und Zweck der Verarbeitung:</div><div>Wenn Nutzer Kommentare auf unserer Website hinterlassen, werden neben diesen Angaben auch der Zeitpunkt ihrer Erstellung und der zuvor durch den Websitebesucher gewählte Nutzername gespeichert. Dies dient unserer Sicherheit, da wir für widerrechtliche Inhalte auf unserer Webseite belangt werden können, auch wenn diese durch Benutzer erstellt wurden.</div><div><br></div><div>Rechtsgrundlage:</div><div>Die Verarbeitung der als Kommentar eingegebenen Daten erfolgt auf der Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).</div><div><br></div><div>Durch Bereitstellung der Kommentarfunktion möchten wir Ihnen eine unkomplizierte Interaktion ermöglichen. Ihre gemachten Angaben werden zum Zwecke der Bearbeitung der Anfrage sowie für mögliche Anschlussfragen gespeichert.</div><div><br></div><div>Empfänger:</div><div>Empfänger der Daten sind ggf. Auftragsverarbeiter.</div><div><br></div><div>Speicherdauer:</div><div>Die Daten werden gelöscht, sobald diese für den Zweck der Erhebung nicht mehr erforderlich sind. Dies ist grundsätzlich der Fall, wenn die Kommunikation mit dem Nutzer abgeschlossen ist und das Unternehmen den Umständen entnehmen kann, dass der betroffene Sachverhalt abschließend geklärt ist.</div><div><br></div><div>Bereitstellung vorgeschrieben oder erforderlich:</div><div>Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig. Ohne die Bereitstellung Ihrer personenbezogenen Daten können wir Ihnen keinen Zugang zu unserer Kommentarfunktion gewähren.</div><div><br></div><div>Kontaktformular</div><div>Art und Zweck der Verarbeitung:</div><div>Die von Ihnen eingegebenen Daten werden zum Zweck der individuellen Kommunikation mit Ihnen gespeichert. Hierfür ist die Angabe einer validen E-Mail-Adresse sowie Ihres Namens erforderlich. Diese dient der Zuordnung der Anfrage und der anschließenden Beantwortung derselben. Die Angabe weiterer Daten ist optional.</div><div><br></div><div>Rechtsgrundlage:</div><div>Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt auf der Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).</div><div><br></div><div>Durch Bereitstellung des Kontaktformulars möchten wir Ihnen eine unkomplizierte Kontaktaufnahme ermöglichen. Ihre gemachten Angaben werden zum Zwecke der Bearbeitung der Anfrage sowie für mögliche Anschlussfragen gespeichert.</div><div><br></div><div>Sofern Sie mit uns Kontakt aufnehmen, um ein Angebot zu erfragen, erfolgt die Verarbeitung der in das Kontaktformular eingegebenen Daten zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO).</div><div><br></div><div>Empfänger:</div><div>Empfänger der Daten sind ggf. Auftragsverarbeiter.</div><div><br></div><div>Speicherdauer:</div><div>Daten werden spätestens 6 Monate nach Bearbeitung der Anfrage gelöscht.</div><div><br></div><div>Sofern es zu einem Vertragsverhältnis kommt, unterliegen wir den gesetzlichen Aufbewahrungsfristen nach HGB und löschen Ihre Daten nach Ablauf dieser Fristen.</div><div><br></div><div>Bereitstellung vorgeschrieben oder erforderlich:</div><div>Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig. Wir können Ihre Anfrage jedoch nur bearbeiten, sofern Sie uns Ihren Namen, Ihre E-Mail-Adresse und den Grund der Anfrage mitteilen.</div><div><br></div><div>Verwendung von Google Maps</div><div>Art und Zweck der Verarbeitung:</div><div>Auf dieser Webseite nutzen wir das Angebot von Google Maps. Google Maps wird von Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (nachfolgend „Google“) betrieben. Dadurch können wir Ihnen interaktive Karten direkt in der Webseite anzeigen und ermöglichen Ihnen die komfortable Nutzung der Karten-Funktion.</div><div><br></div><div>Nähere Informationen über die Datenverarbeitung durch Google können Sie den Google-Datenschutzhinweisen entnehmen. Dort können Sie im Datenschutzcenter auch Ihre persönlichen Datenschutz-Einstellungen verändern.</div><div><br></div><div>Ausführliche Anleitungen zur Verwaltung der eigenen Daten im Zusammenhang mit Google-Produkten finden Sie hier.</div><div><br></div><div>Rechtsgrundlage:</div><div>Rechtsgrundlage für die Einbindung von Google Maps und dem damit verbundenen Datentransfer zu Google ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).</div><div><br></div><div>Empfänger:</div><div>Durch den Besuch der Webseite erhält Google Informationen, dass Sie die entsprechende Unterseite unserer Webseite aufgerufen haben. Dies erfolgt unabhängig davon, ob Google ein Nutzerkonto bereitstellt, über das Sie eingeloggt sind, oder ob keine Nutzerkonto besteht. Wenn Sie bei Google eingeloggt sind, werden Ihre Daten direkt Ihrem Konto zugeordnet.</div><div><br></div><div>Wenn Sie die Zuordnung in Ihrem Profil bei Google nicht wünschen, müssen Sie sich vor Aktivierung des Buttons bei Google ausloggen. Google speichert Ihre Daten als Nutzungsprofile und nutzt sie für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechter Gestaltung seiner Webseite. Eine solche Auswertung erfolgt insbesondere (selbst für nicht eingeloggte Nutzer) zur Erbringung bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks über Ihre Aktivitäten auf unserer Webseite zu informieren. Ihnen steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile, wobei Sie sich zur Ausübung dessen an Google richten müssen.</div><div><br></div><div>Speicherdauer:</div><div>Wir erheben keine personenbezogenen Daten, durch die Einbindung von Google Maps.</div><div><br></div><div>Drittlandtransfer:</div><div>Google verarbeitet Ihre Daten in den USA und hat sich dem EU_US Privacy Shield unterworfen https://www.privacyshield.gov/EU-US-Framework.</div><div><br></div><div>Widerruf der Einwilligung:</div><div>Wenn Sie nicht möchten, dass Google über unseren Internetauftritt Daten über Sie erhebt, verarbeitet oder nutzt, können Sie in Ihrem Browsereinstellungen JavaScript deaktivieren. In diesem Fall können Sie unsere Webseite jedoch nicht oder nur eingeschränkt nutzen.</div><div><br></div><div>Bereitstellung vorgeschrieben oder erforderlich:</div><div>Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig, allein auf Basis Ihrer Einwilligung. Sofern Sie den Zugriff unterbinden, kann es hierdurch zu Funktionseinschränkungen auf der Website kommen.</div><div><br></div><div>Änderung unserer Datenschutzbestimmungen</div><div>Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.</div><div><br></div><div>Fragen an den Datenschutzbeauftragten</div><div>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:</div><div><br></div><div>Die Datenschutzerklärung wurde mithilfe der activeMind AG erstellt, den Experten für externe Datenschutzbeauftragte (Version #2019-04-10).<br><div><br></div></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         }
       ]
     }

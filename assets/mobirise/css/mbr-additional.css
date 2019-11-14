@@ -593,7 +593,7 @@ h6,
   text-align: left;
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
-  color: #28324e;
+  color: #ffffff;
 }
 
 
@@ -1162,4 +1162,92 @@ h6,
 #menu-3l .close-icon::before,
 #menu-3l .close-icon::after {
   background-color: #000000;
+}
+
+
+
+#header3-4x .mbr-section-title,
+#header3-4x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4x H3 {
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-4x SPAN {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-4y .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-4y .navbar-caption {
+  color: #ffffff;
+}
+#menu-4y .navbar-toggler {
+  color: #000000;
+}
+#menu-4y .link,
+#menu-4y .dropdown-item {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-4y .link {
+  font-size: 1rem;
+}
+#menu-4y .dropdown-item,
+#menu-4y .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-4y .link:hover,
+#menu-4y .dropdown-item:hover,
+#menu-4y .link:focus,
+#menu-4y .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-4y .link[aria-expanded="true"],
+#menu-4y .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-4y .nav-dropdown-sm .link:focus,
+#menu-4y .nav-dropdown-sm .link:hover,
+#menu-4y .nav-dropdown-sm .dropdown-item:focus,
+#menu-4y .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-4y .navbar,
+#menu-4y .nav-dropdown-sm,
+#menu-4y .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-4y .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-4y .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-4y .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-4y .bg-color.transparent.opened .link:hover,
+#menu-4y .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-4y .link[aria-expanded="true"],
+#menu-4y .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-4y.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4y .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-4y .close-icon::before,
+#menu-4y .close-icon::after {
+  background-color: #000000;
+}
+#msg-box3-51 .mbr-section-title,
+#msg-box3-51 p {
+  color: #000;
+}
+#msg-box3-51 .lead DIV {
+  text-align: left;
 }

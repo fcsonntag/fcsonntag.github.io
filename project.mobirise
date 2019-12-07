@@ -570,7 +570,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Bistumsliga\u001b Berlin - 2. Liga<br>",
+          "title": "Bistumsliga Berlin - 2. Liga<br>",
           "meta": ""
         },
         {
@@ -1246,7 +1246,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170429-1-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170429-1-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1826,7 +1826,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/98-2000x1428-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/98-2000x1428.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "0",

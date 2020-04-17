@@ -465,7 +465,7 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "46px",
+              "font-size": "36px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#ffffff"
@@ -490,7 +490,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p></p><p><br></p><p><b>#StayHome</b><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp;</span></p><p><br></p><br><p><br></p>",
+          "text1": "<p></p><p><br></p><p><b>#Stay@Home</b><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp;</span></p><p><br></p><br><p><br></p>",
           "text2": "<p><br></p><p><br></p>"
         },
         {
